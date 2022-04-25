@@ -1,8 +1,8 @@
 ### Hey, I'm Matt Jaikaran 👋🏾
 
-I'm a fullstack engineer based in New York City. 
+I'm a software engineer based in New York City. 
 
-I enjoy building front end applications with React/NextJS and APIs with Django and NodeJS.
+I enjoy building APIs with Django and NodeJS and front end applications with React/NextJS.
 
 Things I enjoy:
 - Working on projects that help the community
