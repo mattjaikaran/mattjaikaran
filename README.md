@@ -7,7 +7,7 @@ I enjoy building APIs with Django and NodeJS and front end applications with Rea
 Things I enjoy:
 - Working on projects that help the community
 - Learning new things
-  - Currently learning: Rust
+  - Currently learning Rust
 - Music
 - Photography 
 - Fitness
