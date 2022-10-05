@@ -2,11 +2,12 @@
 
 I'm a software engineer based in New York City. 
 
-I enjoy building APIs with Django and NodeJS and front end applications with React/NextJS.
+I enjoy building APIs with Django and NodeJS and front end applications with React/NextJS and Svelte.
 
 Things I enjoy:
 - Working on projects that help the community
 - Learning new things
+  - Currently learning: Rust
 - Music
 - Photography 
 - Fitness
