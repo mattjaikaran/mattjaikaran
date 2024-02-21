@@ -9,8 +9,10 @@ Things I enjoy:
 - Music
 - Photography
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mattjaikaran&theme=algolia&margin-w=15&margin-h=15&rank=S,SSS,SS,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mattjaikaran&theme=oldie&margin-w=15&margin-h=15&rank=SECRET,S,SSS,SS,AAA,AA,A,B&row=2)](https://github.com/ryo-ma/github-profile-trophy) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattjaikaran&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattjaikaran&layout=compact&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mattjaikaran&theme=dracula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
