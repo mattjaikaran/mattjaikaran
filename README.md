@@ -15,4 +15,4 @@ Things I enjoy:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mattjaikaran&theme=dracula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mattjaikaran&theme=default)
