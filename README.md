@@ -11,7 +11,7 @@ Things I enjoy:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mattjaikaran&theme=oldie&margin-w=15&margin-h=15&rank=SECRET,S,SSS,SS,AAA,AA,A,B&row=2)](https://github.com/ryo-ma/github-profile-trophy) 
 
-![](https://github-readme-stats.vercel.app/api?username=mattjaikaran&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=mattjaikaran&show_icons=true&theme=apprentice)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattjaikaran&layout=compact&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
 
