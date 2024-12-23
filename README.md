@@ -3,7 +3,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mattjaikaran)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://mattjaikaran.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mattjaikaran)
 
 ## About Me
 I'm a passionate software engineer specializing in full-stack development. With expertise in building robust APIs and modern web applications, I focus on creating scalable solutions that solve real-world problems and scaling business ideas and logic into real world applications.
@@ -46,6 +45,3 @@ I'm a passionate software engineer specializing in full-stack development. With 
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mattjaikaran&theme=default)
 
-## 📫 Get in Touch
-- Website: [mattjaikaran.com](https://mattjaikaran.com)
-- LinkedIn: [mattjaikaran](https://linkedin.com/in/mattjaikaran)
