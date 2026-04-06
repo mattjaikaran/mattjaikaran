@@ -65,10 +65,3 @@ Full-stack software engineer in NYC building robust APIs, modern web apps, nativ
 - Music production and sound design
 - Photography
 
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattjaikaran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-</div>
