@@ -39,7 +39,7 @@ Full-stack software engineer in NYC building robust APIs, modern web apps, and n
 
 ## What I Build
 
-- **Full-Stack Applications** — End-to-end web and mobile apps with Python/Django/FastAPI backends and React/Next.js/SwiftUI frontends
+- **Full-Stack Applications** — End-to-end web and mobile apps with Python/Django/FastAPI backends and React frontends
 - **CLIs & Developer Tools** — Fast, ergonomic command-line tools in Rust, Python, Bash, and TypeScript.
 - **AI-Powered Products** — Agentic workflows, LLM-powered spec-driven development, and AI-augmented developer tooling.
 - **Native iOS/macOS Apps** — SwiftUI apps with async/await, Core Data, and system integrations
